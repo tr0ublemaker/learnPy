@@ -42,3 +42,47 @@
 - Android 领域：熟悉 Gradle 、 Maven 、 Espresso 、 Robolectric 、 Appium 等测试工具优先
 - iOS 领域：熟悉 OCUnit 、 UI Automation 、 KIF 、 Appium 等测试工具优先
 - 提供 Github 账号、技术 Blog 链接等优先
+
+
+### 百度
+
+任职资格：
+
+1. 统招本科以上学历； 
+
+2. 有扎实的计算机基础，熟悉常用数据结构、算法、设计模式； 
+
+3. 熟练掌握 Python/Java/C++ 其中一种语言，良好的编码风格，强悍的编码能力，有代码洁癖者加分。 
+
+4. 熟悉 Linux 开发环境，熟悉 Mysql, Redis, Mongodb, Kafka, ElasticSearch 等软件，熟悉Django/Flask/Tornato 或其他 Python 框架者加分； 
+
+5. 有过高并发服务器设计和架构经验，系统调优有相关经验者加分；
+
+	有海量数据处理经验者加分，包括分布式存储，数据处理。
+    
+工作职责：
+
+负责WEB架构,为业务开发提供方案支持,负责关键服务的设计和实现。主要实现语言为 Python/Go
+
+任职资格：
+
+1. 有扎实的编程能力,有优秀的设计和代码品位, 热爱编程  
+
+2. 深刻理解计算机原理,有良好的数据结构和算法基础  
+
+3. 熟悉mysql, mongodb, memcache, redis,消息队列等常用WEB组件,并有能力进行定制化改进  
+
+4. 有高并发服务设计和实现经验,对分布式处理有自己的理解和实际经验
+
+##skill
+
+-	用pip解决依赖问题。
+- 用ipython来debug 当然它能做更多 更多
+- 用virtualenv隔离环境
+- 更推荐使用python2 应该没有企业在用python3吧
+- pycharm是一款很不错的ide
+- 使用nose来做测试
+- 尝试阅读python源码会对python有更深入的理解
+- 去 awesome-python  hitchhiker's guide to python  寻找完成相应任务的库
+- 订阅reddit里python的subreddit
+- 订阅python weekly（有两个）
